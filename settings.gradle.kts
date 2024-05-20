@@ -1,4 +1,4 @@
-rootProject.name = "board-game-store"
+rootProject.name = "learn-microservices-spring-cloud"
 
 includeBuild("eureka-server")
 includeBuild("eureka-client")
